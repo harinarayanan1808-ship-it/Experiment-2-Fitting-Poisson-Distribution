@@ -20,6 +20,8 @@ Python and Visual Component Tool
 Name:HARINARAYANAN.A
 Reg No: 25017317
 Slot Name: 3P1-PQM
+
+
 import numpy as np 
 import math 
 import scipy.stats 
